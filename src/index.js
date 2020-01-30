@@ -1,4 +1,5 @@
 export { default as Button } from './components/Button';
+export { default as LoadingHahowLogo } from './components/LoadingHahowLogo';
 export { default as MenuList } from './components/MenuList';
 export { default as Rate } from './components/Rate';
 export { default as RatingModal } from './components/RatingModal';
